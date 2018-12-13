@@ -56,7 +56,7 @@ function getWebviewContent(str) {
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>自定义欢迎页</title>
+        <title>翻译</title>
     </head>
     <body>
         <iframe src="https://fanyi.baidu.com/?aldtype=85#en/zh/${str}" style="width:100%;height: 900px;"></iframe>
