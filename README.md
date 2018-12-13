@@ -8,4 +8,4 @@
     ![path](https://github.com/18437931018/translation/blob/master/path.png)
    * 安装依赖 npm install
    * 重启vscode
-### [官网链接]（https://code.visualstudio.com/docs/extensions/overview）  
+### [官网链接](https://code.visualstudio.com/docs/extensions/overview)  
