@@ -7,3 +7,4 @@
    * 将此项目down到本地的vscode插件目录，目录地址如下：
     ![path](https://github.com/18437931018/translation/blob/master/path.png)
    * 安装依赖 npm install
+   * 重启vscode
